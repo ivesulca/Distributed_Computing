@@ -1,6 +1,5 @@
 
 # Human Activity Recognition using Distributed Computing
-​
 ## Technologies used:
 ​
     - Apache PySpark
@@ -12,10 +11,10 @@
 ​
 ## Contributors
 ​
+- Aakanksha Nallabothula Surya
+- Roja Immani
 - Shreejaya Bharathan
 - Ivette Sulca
-- Roja Immani
-- Aakanksha Nallabothula Surya
 - Sakshi Singla
 - Akansha Shrivastava
 ​
