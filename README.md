@@ -8,9 +8,7 @@
     - AWS EMR
     - AWS S3
 ​
-​
 ## Contributors
-​
 - Aakanksha Nallabothula Surya
 - Roja Immani
 - Shreejaya Bharathan
